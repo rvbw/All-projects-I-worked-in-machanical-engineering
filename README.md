@@ -7,7 +7,7 @@ Change the number of teath
 
 [Onshape link](https://cad.onshape.com/documents/4d53b952c61965283c5180c8/w/9f2374b4c07054edd8a0a331/e/3268f02be4df9bd8263ba02b?renderMode=0&uiState=69a64aeac0fafece81117743)
 
-![Four Gear Train Assembly](imeges/gears-relation.png)
+![Four Gear Train Assembly](images/Four-gear-updated.png)
 
 ### 2- Shock absorber:
 Make the spring rotate with the gear.
