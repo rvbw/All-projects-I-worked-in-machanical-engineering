@@ -52,7 +52,12 @@ Make the edges smooth and the base lower dipth.
 
 ### 3- Rifle Bullet:
 
-
 [Onshape link](https://cad.onshape.com/documents/4e3aea07a3edb2a88961dbfb/w/c3cca500e49f7056f9ea77da/e/60887ea31474a65b89185e0e?renderMode=0&uiState=69ab3670b4e6ea33d7a06b06)
 
 ![Chassis Assembly](images/Rifle-Bullet.png)
+
+### 4- Robotic wheel Assembly:
+
+[Onshape link](https://cad.onshape.com/documents/dc53cb032bb3cc7289c17e00/w/d1a71a4ecb56ac58364970d6/e/806ced5bfaaa28e3dc72a506?renderMode=0&uiState=69ab37fdedb3ed439d27b668)
+
+![Chassis Assembly](images/Assembly.png)
