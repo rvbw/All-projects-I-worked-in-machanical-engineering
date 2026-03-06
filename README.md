@@ -30,5 +30,29 @@ Make gear relation in the end-effector.
 
 ![Robotic arm Assembly](images/Robot-arm-updated.png)
 
+### 5- Servo Motor Holder:
+Make the edges smooth and the base lower dipth.
+
+[Onshape link](https://cad.onshape.com/documents/9973b01cf40bd34849565411/w/9dd61d5c9538b5675fb44449/e/008a8769edc2e9d71ec76d2e?renderMode=0&uiState=69ab33e1bc8ce682d21cfaa1)
+
+![Robotic arm Assembly](images/enchanced-holder-V.2.png)
 
 ## Cleared Projects:
+### 1- First Project:
+
+[Onshape link](https://cad.onshape.com/documents/fce264c22b85a50fa20a1e88/w/7e633c9d3793b00cbda921c9/e/d68b8f8d57553818f7b63e69?renderMode=0&uiState=69ab358165cb2e517b57f7cf)
+
+![Four Gear Train Assembly](images/First-Project.png)
+
+### 2- Iphone-Type-C-adapter:
+
+[Onshape link](https://cad.onshape.com/documents/f7d1de059be58881fd6eb5c7/w/84852bff5bb0ce6b1253fdca/e/c1fcdfa3abcaef5b3b2e52a1?renderMode=0&uiState=69ab364bedb3ed439d27b4f2)
+
+![Shock absorber Assembly](images/Iphone-Type-C-adapter.png)
+
+### 3- Rifle Bullet:
+
+
+[Onshape link](https://cad.onshape.com/documents/4e3aea07a3edb2a88961dbfb/w/c3cca500e49f7056f9ea77da/e/60887ea31474a65b89185e0e?renderMode=0&uiState=69ab3670b4e6ea33d7a06b06)
+
+![Chassis Assembly](images/Rifle-Bullet.png)
